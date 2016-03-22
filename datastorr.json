@@ -1,3 +1,4 @@
 {
-    "read": "base::readRDS"
+    "read": "base::readRDS",
+    "filename": "data.rds"
 }
